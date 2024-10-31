@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brian bariyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian bariyo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brian bariyo binomugisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian bariyo binomugisha" height="30" width="40" /></a>
+<a href="https://twitter.com/brian_bari62075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian bariyo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/brian-bariyo-binomugisha-33b7b9215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian bariyo binomugisha" height="30" width="40" /></a>
 <a href="https://kaggle.com/binomugishabrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="binomugishabrian" height="30" width="40" /></a>
 <a href="https://instagram.com/_g.i.s.h.a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_g.i.s.h.a_" height="30" width="40" /></a>
 </p>
