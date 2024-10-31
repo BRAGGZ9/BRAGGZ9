@@ -1,4 +1,4 @@
-![MasterHead](/coverimg.gif)
+![MasterHead](/cover_image.gif)
 
 <h1 align="center">Hi 👋, I'm Brian Bariyo Binomugisha</h1>
 <h3 align="center">A passionate Software developer from Uganda</h3>
