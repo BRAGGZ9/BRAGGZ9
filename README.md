@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Bariyo Binomugisha</h1>
-<h3 align="center">A passionate frontend developer from Uganda.ndia</h3>
-<img align="right" alt="Coding" width="400" src="/coding gif.gif">
+<h3 align="center">A passionate frontend developer from Uganda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=braggz9&label=Profile%20views&color=0e75b6&style=flat" alt="braggz9" /> </p>
 
@@ -12,11 +11,11 @@
 
 - 🌱 I’m currently learning **Flutter, Spring Boot, Andriod**
 
-- 👯 I’m looking to collaborate on **Ken**
-
 - 💬 Ask me about **Django, React**
 
 - 📫 How to reach me **brianbinomugisha9@gmail.com**
+
+<img align="right" alt="Coding" width="400" src="/coding gif.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
