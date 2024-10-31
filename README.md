@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/brian bariyo" target="blank"><img src="https://img.shields.io/twitter/follow/brian bariyo?logo=twitter&style=for-the-badge" alt="brian bariyo" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="/coding gif.gif">
+
 - 🔭 I’m currently working on **Central Banking System For UCSCU.**
 
 - 🌱 I’m currently learning **Flutter, Spring Boot, Andriod**
@@ -14,8 +16,6 @@
 - 💬 Ask me about **Django, React**
 
 - 📫 How to reach me **brianbinomugisha9@gmail.com**
-
-<img align="right" alt="Coding" width="400" src="/coding gif.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
