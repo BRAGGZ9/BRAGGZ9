@@ -1,4 +1,4 @@
-[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkMwQ2pTUmV3T3ZmWHd2bXN6UnM2VVZxRFhtZ3xBQ3Jtc0tseWxDMENwa25SMWVlM3ZrcENyc0pLYXFyYXdXYUZxeGltYnFCTHZ0Rnh6MU5Xb3ktWHhZeFlLNWlySm1zTVZMMzhyQldhal9pbUR3NkFOaDNrb1FjUHlIaDMwcEc5dF9aLWhzTTktRWNBaUdOcG5mVQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Brian Bariyo Binomugisha</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
