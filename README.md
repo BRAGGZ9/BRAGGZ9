@@ -1,7 +1,8 @@
 ![MasterHead](/cover_image.gif)
 
 <h1 align="center">Hi 👋, I'm Brian Bariyo Binomugisha</h1>
-<h3 align="center">A passionate frontend developer from Uganda</h3>
+<h3 align="center">A passionate Software developer from Uganda</h3>
+![MasterHead](/coverimg.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=braggz9&label=Profile%20views&color=0e75b6&style=flat" alt="braggz9" /> </p>
 
