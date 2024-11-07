@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=braggz9" alt="braggz9" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="/coding gif.gif">
-<p align="left"> <a href="https://twitter.com/brian bariyo" target="blank"><img src="https://img.shields.io/twitter/follow/brian bariyo?logo=twitter&style=for-the-badge" alt="brian bariyo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/brian_bari62075" target="blank"><img src="https://img.shields.io/twitter/follow/brian bariyo?logo=twitter&style=for-the-badge" alt="brian bariyo" /></a> </p>
 
 - 🔭 I’m currently working on **Central Banking System For UCSCU.**
 
